@@ -1,1 +1,5 @@
 # Interactive-Multi-Agent-Reinforcement-Learning
+
+This repository contains the code pertaining to the Interactive Multi-Agent Reinforcement Learning project done under Computer Society IEEE NITK. 
+
+Multi-Agent Reinforcement Learning (MARL) deals with multiple cooperative, competitive, or mixed agents interacting to achieve goals in a shared environment. Extension of single-agent optimization workhorses like Gradient Descent Ascent (GDA) is one straightforward way for multi-agent optimization. However, this ignores non-stationarity and performs poorly. Hence in this project, we studied and implemented Competitive Gradient Descent ([CGD](https://arxiv.org/abs/1905.12103)) and Learning with Opponent Learning Awareness ([LOLA](https://arxiv.org/abs/1709.04326)) algorithms that solve this problem in multi-agent environments. We implemented these algorithms in a wide variety of multi-agent settings and social dilemmas like the bilinear game, linear-quadratic control, matching pennies, rock paper scissors, prisoner’s dilemma, iterated prisoner’s dilemma, Markov soccer, and the coin game.
